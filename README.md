@@ -2,10 +2,10 @@
 These works are implemented for practices in Pattern Recognition course I am taking at TokyoTech(2020,2Q).
 
 ## LinearDiscriminantAnalysis.ipynb
-Khmer hand-written digits recognition task
+Khmer numeral hand-written digits recognition task
 
 ## LogisticRegression.ipynb
-Arabic hand-written digits recognition task
+English numeral hand-written digits recognition task
 
 ## dataset, dataset_original
 Khmer hand-written digits datasets
