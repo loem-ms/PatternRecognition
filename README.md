@@ -1,6 +1,10 @@
 # PatternRecognition
 These works are implemented for practices in Pattern Recognition course I am taking at TokyoTech(2020,2Q).
 
+## GMM2D_EM.ipynb
+ML Estimation of 2-dimension Gaussian Mixtured Model by EM algorithm (+ Cross validation) 
+
+
 ## LinearDiscriminantAnalysis.ipynb
 Khmer numeral hand-written digits recognition task
 
