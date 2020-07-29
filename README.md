@@ -8,6 +8,9 @@ Numerical Calculation Method for Bayesian Inference
 ## GMM2D_EM.ipynb
 ML Estimation of 2-dimension Gaussian Mixtured Model by EM algorithm (+ Cross validation) 
 
+## KernelMethod.ipynb
+Non-parametric model (Kernel Method)
+
 
 ## LinearDiscriminantAnalysis.ipynb
 Khmer numeral hand-written digits recognition task
