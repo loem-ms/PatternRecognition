@@ -1,5 +1,5 @@
 # PatternRecognition
-These works are implemented for practices in Pattern Recognition course I am taking at TokyoTech(2020,2Q).
+These works are implemented for practices in Pattern Recognition course I took at TokyoTech(2020,2Q).
 
 ## BayesianInferenceNumericalCalculation.ipynb
 Numerical Calculation Method for Bayesian Inference
